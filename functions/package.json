@@ -1,0 +1,19 @@
+{
+  "name": "current-events-functions",
+  "version": "0.0.1",
+  "description": "Functions for Current Events",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "firebase-admin": "^5.1.0",
+    "firebase-functions": "^0.6.1",
+    "moment": "^2.18.1",
+    "node-fetch": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Smus <boris@smus.com> (http://smus.com)",
+  "license": "Apache-2.0"
+}
